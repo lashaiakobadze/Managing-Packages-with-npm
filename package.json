@@ -1,4 +1,4 @@
-{
+{  
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -13,5 +13,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "author": "Lasha Iakobadze",
+  "description":"This is FCC challenges project",
+  "keywords": [ "freecodecamp", "challenges" ],
+  "license": "MIT",
+  "version": "1.0"
 }
